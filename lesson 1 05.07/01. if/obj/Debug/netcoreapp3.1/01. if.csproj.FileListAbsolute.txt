@@ -1,0 +1,14 @@
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.exe
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.deps.json
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.runtimeconfig.json
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.runtimeconfig.dev.json
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.dll
+D:\Давид практика\lesson 1 05.07\01. if\bin\Debug\netcoreapp3.1\01. if.pdb
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.csproj.AssemblyReference.cache
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.AssemblyInfoInputs.cache
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.AssemblyInfo.cs
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.csproj.CoreCompileInputs.cache
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.dll
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.pdb
+D:\Давид практика\lesson 1 05.07\01. if\obj\Debug\netcoreapp3.1\01. if.genruntimeconfig.cache

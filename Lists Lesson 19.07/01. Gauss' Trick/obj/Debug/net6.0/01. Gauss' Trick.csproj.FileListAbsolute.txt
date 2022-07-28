@@ -1,0 +1,15 @@
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.exe
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.deps.json
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.runtimeconfig.json
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.dll
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\bin\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.AssemblyReference.cache
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfoInputs.cache
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.AssemblyInfo.cs
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.dll
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\refint\01. Gauss' Trick.dll
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.pdb
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\01. Gauss' Trick.genruntimeconfig.cache
+D:\Давид практика\Lists Lesson 19.07\01. Gauss' Trick\obj\Debug\net6.0\ref\01. Gauss' Trick.dll

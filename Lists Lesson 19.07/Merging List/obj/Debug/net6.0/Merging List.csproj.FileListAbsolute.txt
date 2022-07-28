@@ -1,0 +1,15 @@
+D:\Давид практика\Lists Lesson 19.07\Merging List\bin\Debug\net6.0\Merging List.exe
+D:\Давид практика\Lists Lesson 19.07\Merging List\bin\Debug\net6.0\Merging List.deps.json
+D:\Давид практика\Lists Lesson 19.07\Merging List\bin\Debug\net6.0\Merging List.runtimeconfig.json
+D:\Давид практика\Lists Lesson 19.07\Merging List\bin\Debug\net6.0\Merging List.dll
+D:\Давид практика\Lists Lesson 19.07\Merging List\bin\Debug\net6.0\Merging List.pdb
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.csproj.AssemblyReference.cache
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.AssemblyInfoInputs.cache
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.AssemblyInfo.cs
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.csproj.CoreCompileInputs.cache
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.dll
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\refint\Merging List.dll
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.pdb
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\Merging List.genruntimeconfig.cache
+D:\Давид практика\Lists Lesson 19.07\Merging List\obj\Debug\net6.0\ref\Merging List.dll
