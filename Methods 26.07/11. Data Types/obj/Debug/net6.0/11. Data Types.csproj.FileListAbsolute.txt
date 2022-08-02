@@ -1,0 +1,15 @@
+D:\Давид практика\Methods 26.07\11. Data Types\bin\Debug\net6.0\11. Data Types.exe
+D:\Давид практика\Methods 26.07\11. Data Types\bin\Debug\net6.0\11. Data Types.deps.json
+D:\Давид практика\Methods 26.07\11. Data Types\bin\Debug\net6.0\11. Data Types.runtimeconfig.json
+D:\Давид практика\Methods 26.07\11. Data Types\bin\Debug\net6.0\11. Data Types.dll
+D:\Давид практика\Methods 26.07\11. Data Types\bin\Debug\net6.0\11. Data Types.pdb
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.csproj.AssemblyReference.cache
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.AssemblyInfoInputs.cache
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.AssemblyInfo.cs
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.csproj.CoreCompileInputs.cache
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.dll
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\refint\11. Data Types.dll
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.pdb
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\11. Data Types.genruntimeconfig.cache
+D:\Давид практика\Methods 26.07\11. Data Types\obj\Debug\net6.0\ref\11. Data Types.dll
