@@ -1,0 +1,14 @@
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.exe
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.deps.json
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.runtimeconfig.json
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.runtimeconfig.dev.json
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.dll
+D:\Давид практика\Array Homework\Longest Sequence\bin\Debug\netcoreapp3.1\Longest Sequence.pdb
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.csproj.AssemblyReference.cache
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.AssemblyInfoInputs.cache
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.AssemblyInfo.cs
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.csproj.CoreCompileInputs.cache
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.dll
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.pdb
+D:\Давид практика\Array Homework\Longest Sequence\obj\Debug\netcoreapp3.1\Longest Sequence.genruntimeconfig.cache

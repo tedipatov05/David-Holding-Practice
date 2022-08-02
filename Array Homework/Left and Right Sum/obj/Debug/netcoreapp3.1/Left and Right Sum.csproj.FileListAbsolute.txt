@@ -1,0 +1,14 @@
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.exe
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.deps.json
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.json
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.runtimeconfig.dev.json
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.dll
+D:\Давид практика\Array Homework\Left and Right Sum\bin\Debug\netcoreapp3.1\Left and Right Sum.pdb
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.AssemblyReference.cache
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfoInputs.cache
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.AssemblyInfo.cs
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.csproj.CoreCompileInputs.cache
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.dll
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.pdb
+D:\Давид практика\Array Homework\Left and Right Sum\obj\Debug\netcoreapp3.1\Left and Right Sum.genruntimeconfig.cache

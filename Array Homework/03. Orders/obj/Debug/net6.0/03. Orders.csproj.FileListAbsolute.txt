@@ -1,0 +1,15 @@
+D:\Давид практика\Array Homework\03. Orders\bin\Debug\net6.0\03. Orders.exe
+D:\Давид практика\Array Homework\03. Orders\bin\Debug\net6.0\03. Orders.deps.json
+D:\Давид практика\Array Homework\03. Orders\bin\Debug\net6.0\03. Orders.runtimeconfig.json
+D:\Давид практика\Array Homework\03. Orders\bin\Debug\net6.0\03. Orders.dll
+D:\Давид практика\Array Homework\03. Orders\bin\Debug\net6.0\03. Orders.pdb
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.csproj.AssemblyReference.cache
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfoInputs.cache
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.AssemblyInfo.cs
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.csproj.CoreCompileInputs.cache
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.dll
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\refint\03. Orders.dll
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.pdb
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\03. Orders.genruntimeconfig.cache
+D:\Давид практика\Array Homework\03. Orders\obj\Debug\net6.0\ref\03. Orders.dll

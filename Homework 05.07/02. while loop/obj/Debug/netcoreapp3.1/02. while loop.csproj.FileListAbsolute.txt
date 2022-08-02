@@ -1,0 +1,14 @@
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.exe
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.deps.json
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.runtimeconfig.json
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.runtimeconfig.dev.json
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.dll
+D:\Давид практика\Homework 05.07\02. while loop\bin\Debug\netcoreapp3.1\02. while loop.pdb
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.csproj.AssemblyReference.cache
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.AssemblyInfoInputs.cache
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.AssemblyInfo.cs
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.csproj.CoreCompileInputs.cache
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.dll
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.pdb
+D:\Давид практика\Homework 05.07\02. while loop\obj\Debug\netcoreapp3.1\02. while loop.genruntimeconfig.cache

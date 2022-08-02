@@ -1,0 +1,15 @@
+D:\Давид практика\Array Homework\02. MOBA play\bin\Debug\net6.0\02. MOBA play.exe
+D:\Давид практика\Array Homework\02. MOBA play\bin\Debug\net6.0\02. MOBA play.deps.json
+D:\Давид практика\Array Homework\02. MOBA play\bin\Debug\net6.0\02. MOBA play.runtimeconfig.json
+D:\Давид практика\Array Homework\02. MOBA play\bin\Debug\net6.0\02. MOBA play.dll
+D:\Давид практика\Array Homework\02. MOBA play\bin\Debug\net6.0\02. MOBA play.pdb
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.csproj.AssemblyReference.cache
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.AssemblyInfoInputs.cache
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.AssemblyInfo.cs
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.csproj.CoreCompileInputs.cache
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.dll
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\refint\02. MOBA play.dll
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.pdb
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\02. MOBA play.genruntimeconfig.cache
+D:\Давид практика\Array Homework\02. MOBA play\obj\Debug\net6.0\ref\02. MOBA play.dll

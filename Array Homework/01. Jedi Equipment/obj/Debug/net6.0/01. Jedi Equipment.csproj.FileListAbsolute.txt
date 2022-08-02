@@ -1,0 +1,15 @@
+D:\Давид практика\Array Homework\01. Jedi Equipment\bin\Debug\net6.0\01. Jedi Equipment.exe
+D:\Давид практика\Array Homework\01. Jedi Equipment\bin\Debug\net6.0\01. Jedi Equipment.deps.json
+D:\Давид практика\Array Homework\01. Jedi Equipment\bin\Debug\net6.0\01. Jedi Equipment.runtimeconfig.json
+D:\Давид практика\Array Homework\01. Jedi Equipment\bin\Debug\net6.0\01. Jedi Equipment.dll
+D:\Давид практика\Array Homework\01. Jedi Equipment\bin\Debug\net6.0\01. Jedi Equipment.pdb
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.csproj.AssemblyReference.cache
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.AssemblyInfoInputs.cache
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.AssemblyInfo.cs
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.csproj.CoreCompileInputs.cache
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.dll
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\refint\01. Jedi Equipment.dll
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.pdb
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\01. Jedi Equipment.genruntimeconfig.cache
+D:\Давид практика\Array Homework\01. Jedi Equipment\obj\Debug\net6.0\ref\01. Jedi Equipment.dll

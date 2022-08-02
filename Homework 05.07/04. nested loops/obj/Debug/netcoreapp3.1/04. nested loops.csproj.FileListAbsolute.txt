@@ -1,0 +1,14 @@
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.exe
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.deps.json
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.runtimeconfig.json
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.runtimeconfig.dev.json
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.dll
+D:\Давид практика\Homework 05.07\04. nested loops\bin\Debug\netcoreapp3.1\04. nested loops.pdb
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.csproj.AssemblyReference.cache
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.AssemblyInfoInputs.cache
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.AssemblyInfo.cs
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.csproj.CoreCompileInputs.cache
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.dll
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.pdb
+D:\Давид практика\Homework 05.07\04. nested loops\obj\Debug\netcoreapp3.1\04. nested loops.genruntimeconfig.cache

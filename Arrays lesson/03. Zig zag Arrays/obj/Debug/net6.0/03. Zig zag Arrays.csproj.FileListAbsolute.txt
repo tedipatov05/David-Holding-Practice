@@ -1,0 +1,15 @@
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\bin\Debug\net6.0\03. Zig zag Arrays.exe
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\bin\Debug\net6.0\03. Zig zag Arrays.deps.json
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\bin\Debug\net6.0\03. Zig zag Arrays.runtimeconfig.json
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\bin\Debug\net6.0\03. Zig zag Arrays.dll
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\bin\Debug\net6.0\03. Zig zag Arrays.pdb
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.csproj.AssemblyReference.cache
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.AssemblyInfoInputs.cache
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.AssemblyInfo.cs
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.csproj.CoreCompileInputs.cache
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.dll
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\refint\03. Zig zag Arrays.dll
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.pdb
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\03. Zig zag Arrays.genruntimeconfig.cache
+D:\Давид практика\Arrays lesson\03. Zig zag Arrays\obj\Debug\net6.0\ref\03. Zig zag Arrays.dll

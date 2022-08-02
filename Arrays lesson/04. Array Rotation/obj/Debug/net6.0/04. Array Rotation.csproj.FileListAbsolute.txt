@@ -1,0 +1,15 @@
+D:\Давид практика\Arrays lesson\04. Array Rotation\bin\Debug\net6.0\04. Array Rotation.exe
+D:\Давид практика\Arrays lesson\04. Array Rotation\bin\Debug\net6.0\04. Array Rotation.deps.json
+D:\Давид практика\Arrays lesson\04. Array Rotation\bin\Debug\net6.0\04. Array Rotation.runtimeconfig.json
+D:\Давид практика\Arrays lesson\04. Array Rotation\bin\Debug\net6.0\04. Array Rotation.dll
+D:\Давид практика\Arrays lesson\04. Array Rotation\bin\Debug\net6.0\04. Array Rotation.pdb
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.csproj.AssemblyReference.cache
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.AssemblyInfo.cs
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.dll
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\refint\04. Array Rotation.dll
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.pdb
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\04. Array Rotation.genruntimeconfig.cache
+D:\Давид практика\Arrays lesson\04. Array Rotation\obj\Debug\net6.0\ref\04. Array Rotation.dll

@@ -1,0 +1,15 @@
+D:\Давид практика\Arrays lesson\02. Common Elemets\bin\Debug\net6.0\02. Common Elemets.exe
+D:\Давид практика\Arrays lesson\02. Common Elemets\bin\Debug\net6.0\02. Common Elemets.deps.json
+D:\Давид практика\Arrays lesson\02. Common Elemets\bin\Debug\net6.0\02. Common Elemets.runtimeconfig.json
+D:\Давид практика\Arrays lesson\02. Common Elemets\bin\Debug\net6.0\02. Common Elemets.dll
+D:\Давид практика\Arrays lesson\02. Common Elemets\bin\Debug\net6.0\02. Common Elemets.pdb
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.csproj.AssemblyReference.cache
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.AssemblyInfoInputs.cache
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.AssemblyInfo.cs
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.csproj.CoreCompileInputs.cache
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.dll
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\refint\02. Common Elemets.dll
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.pdb
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\02. Common Elemets.genruntimeconfig.cache
+D:\Давид практика\Arrays lesson\02. Common Elemets\obj\Debug\net6.0\ref\02. Common Elemets.dll
