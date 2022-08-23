@@ -1,0 +1,15 @@
+D:\Давид практика\Stack and Queues\04. Traffic Jam\bin\Debug\net6.0\04. Traffic Jam.exe
+D:\Давид практика\Stack and Queues\04. Traffic Jam\bin\Debug\net6.0\04. Traffic Jam.deps.json
+D:\Давид практика\Stack and Queues\04. Traffic Jam\bin\Debug\net6.0\04. Traffic Jam.runtimeconfig.json
+D:\Давид практика\Stack and Queues\04. Traffic Jam\bin\Debug\net6.0\04. Traffic Jam.dll
+D:\Давид практика\Stack and Queues\04. Traffic Jam\bin\Debug\net6.0\04. Traffic Jam.pdb
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.csproj.AssemblyReference.cache
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.AssemblyInfoInputs.cache
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.AssemblyInfo.cs
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.csproj.CoreCompileInputs.cache
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.dll
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\refint\04. Traffic Jam.dll
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.pdb
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\04. Traffic Jam.genruntimeconfig.cache
+D:\Давид практика\Stack and Queues\04. Traffic Jam\obj\Debug\net6.0\ref\04. Traffic Jam.dll

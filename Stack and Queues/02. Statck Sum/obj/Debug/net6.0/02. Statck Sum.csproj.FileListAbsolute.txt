@@ -1,0 +1,15 @@
+D:\Давид практика\Stack and Queues\02. Statck Sum\bin\Debug\net6.0\02. Statck Sum.exe
+D:\Давид практика\Stack and Queues\02. Statck Sum\bin\Debug\net6.0\02. Statck Sum.deps.json
+D:\Давид практика\Stack and Queues\02. Statck Sum\bin\Debug\net6.0\02. Statck Sum.runtimeconfig.json
+D:\Давид практика\Stack and Queues\02. Statck Sum\bin\Debug\net6.0\02. Statck Sum.dll
+D:\Давид практика\Stack and Queues\02. Statck Sum\bin\Debug\net6.0\02. Statck Sum.pdb
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.csproj.AssemblyReference.cache
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.AssemblyInfoInputs.cache
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.AssemblyInfo.cs
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.csproj.CoreCompileInputs.cache
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.dll
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\refint\02. Statck Sum.dll
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.pdb
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\02. Statck Sum.genruntimeconfig.cache
+D:\Давид практика\Stack and Queues\02. Statck Sum\obj\Debug\net6.0\ref\02. Statck Sum.dll

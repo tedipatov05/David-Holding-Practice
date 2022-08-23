@@ -1,0 +1,15 @@
+D:\Давид практика\Stack and Queues\03. Matching Brackets\bin\Debug\net6.0\03. Matching Brackets.exe
+D:\Давид практика\Stack and Queues\03. Matching Brackets\bin\Debug\net6.0\03. Matching Brackets.deps.json
+D:\Давид практика\Stack and Queues\03. Matching Brackets\bin\Debug\net6.0\03. Matching Brackets.runtimeconfig.json
+D:\Давид практика\Stack and Queues\03. Matching Brackets\bin\Debug\net6.0\03. Matching Brackets.dll
+D:\Давид практика\Stack and Queues\03. Matching Brackets\bin\Debug\net6.0\03. Matching Brackets.pdb
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.csproj.AssemblyReference.cache
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.AssemblyInfoInputs.cache
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.AssemblyInfo.cs
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.csproj.CoreCompileInputs.cache
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.dll
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\refint\03. Matching Brackets.dll
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.pdb
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\03. Matching Brackets.genruntimeconfig.cache
+D:\Давид практика\Stack and Queues\03. Matching Brackets\obj\Debug\net6.0\ref\03. Matching Brackets.dll

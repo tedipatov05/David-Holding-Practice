@@ -1,0 +1,15 @@
+D:\Давид практика\Stack and Queues\01. Reverse String\bin\Debug\net6.0\01. Reverse String.exe
+D:\Давид практика\Stack and Queues\01. Reverse String\bin\Debug\net6.0\01. Reverse String.deps.json
+D:\Давид практика\Stack and Queues\01. Reverse String\bin\Debug\net6.0\01. Reverse String.runtimeconfig.json
+D:\Давид практика\Stack and Queues\01. Reverse String\bin\Debug\net6.0\01. Reverse String.dll
+D:\Давид практика\Stack and Queues\01. Reverse String\bin\Debug\net6.0\01. Reverse String.pdb
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.csproj.AssemblyReference.cache
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.AssemblyInfoInputs.cache
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.AssemblyInfo.cs
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.csproj.CoreCompileInputs.cache
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.dll
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\refint\01. Reverse String.dll
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.pdb
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\01. Reverse String.genruntimeconfig.cache
+D:\Давид практика\Stack and Queues\01. Reverse String\obj\Debug\net6.0\ref\01. Reverse String.dll
