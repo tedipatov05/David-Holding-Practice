@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.exe
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.deps.json
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.runtimeconfig.json
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.dll
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\bin\Debug\net6.0\01. Count Real Numbers.pdb
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.AssemblyInfo.cs
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.dll
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\refint\01. Count Real Numbers.dll
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.pdb
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\01. Count Real Numbers.genruntimeconfig.cache
+D:\Давид практика\Dictionary Lesson\01. Count Real Numbers\obj\Debug\net6.0\ref\01. Count Real Numbers.dll

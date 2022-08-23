@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\09. Judge\bin\Debug\net6.0\09. Judge.exe
+D:\Давид практика\Dictionary Exercise\09. Judge\bin\Debug\net6.0\09. Judge.deps.json
+D:\Давид практика\Dictionary Exercise\09. Judge\bin\Debug\net6.0\09. Judge.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\09. Judge\bin\Debug\net6.0\09. Judge.dll
+D:\Давид практика\Dictionary Exercise\09. Judge\bin\Debug\net6.0\09. Judge.pdb
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.dll
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\refint\09. Judge.dll
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.pdb
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\09. Judge.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\09. Judge\obj\Debug\net6.0\ref\09. Judge.dll

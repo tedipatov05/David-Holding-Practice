@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.exe
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.deps.json
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.dll
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\bin\Debug\net6.0\04. SoftUni Parking.pdb
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.dll
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\refint\04. SoftUni Parking.dll
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.pdb
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\04. SoftUni Parking.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\04. SoftUni Parking\obj\Debug\net6.0\ref\04. SoftUni Parking.dll

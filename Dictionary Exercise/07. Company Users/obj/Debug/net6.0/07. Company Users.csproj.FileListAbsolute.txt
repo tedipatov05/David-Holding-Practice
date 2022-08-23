@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\07. Company Users\bin\Debug\net6.0\07. Company Users.exe
+D:\Давид практика\Dictionary Exercise\07. Company Users\bin\Debug\net6.0\07. Company Users.deps.json
+D:\Давид практика\Dictionary Exercise\07. Company Users\bin\Debug\net6.0\07. Company Users.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\07. Company Users\bin\Debug\net6.0\07. Company Users.dll
+D:\Давид практика\Dictionary Exercise\07. Company Users\bin\Debug\net6.0\07. Company Users.pdb
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.dll
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\refint\07. Company Users.dll
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.pdb
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\07. Company Users.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\07. Company Users\obj\Debug\net6.0\ref\07. Company Users.dll

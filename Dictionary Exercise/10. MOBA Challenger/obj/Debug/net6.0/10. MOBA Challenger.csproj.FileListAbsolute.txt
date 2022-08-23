@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\bin\Debug\net6.0\10. MOBA Challenger.exe
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\bin\Debug\net6.0\10. MOBA Challenger.deps.json
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\bin\Debug\net6.0\10. MOBA Challenger.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\bin\Debug\net6.0\10. MOBA Challenger.dll
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\bin\Debug\net6.0\10. MOBA Challenger.pdb
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.dll
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\refint\10. MOBA Challenger.dll
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.pdb
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\10. MOBA Challenger.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\10. MOBA Challenger\obj\Debug\net6.0\ref\10. MOBA Challenger.dll

@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.exe
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.deps.json
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.dll
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\bin\Debug\net6.0\01. Count Chars in a String.pdb
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.dll
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\refint\01. Count Chars in a String.dll
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.pdb
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\01. Count Chars in a String.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\01. Count Chars in a String\obj\Debug\net6.0\ref\01. Count Chars in a String.dll

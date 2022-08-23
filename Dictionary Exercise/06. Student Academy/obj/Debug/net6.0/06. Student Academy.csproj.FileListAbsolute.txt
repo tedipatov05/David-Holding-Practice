@@ -1,0 +1,15 @@
+D:\Давид практика\Dictionary Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.exe
+D:\Давид практика\Dictionary Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.deps.json
+D:\Давид практика\Dictionary Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.runtimeconfig.json
+D:\Давид практика\Dictionary Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.dll
+D:\Давид практика\Dictionary Exercise\06. Student Academy\bin\Debug\net6.0\06. Student Academy.pdb
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.csproj.AssemblyReference.cache
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.AssemblyInfoInputs.cache
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.AssemblyInfo.cs
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.csproj.CoreCompileInputs.cache
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.dll
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\refint\06. Student Academy.dll
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.pdb
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\06. Student Academy.genruntimeconfig.cache
+D:\Давид практика\Dictionary Exercise\06. Student Academy\obj\Debug\net6.0\ref\06. Student Academy.dll
